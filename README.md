@@ -5,7 +5,7 @@
 
  - Greetings
  - Taking Commands
- - Search in Chrom
+ - Search in Chrome
  - Search in Wikipedia
  - Playing Songs
  - Sending Mails
