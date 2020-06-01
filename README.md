@@ -9,6 +9,7 @@
  - Search in Wikipedia
  - Playing Songs
  - Sending Mails
+ - Take a Screenshot
  - Remembering
  - Logout,shutdown,Restart
  - Make Jokes
